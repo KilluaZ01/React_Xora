@@ -6,7 +6,7 @@ const Features = () => {
     <section>
       <Element name="features">
         <div className="container">
-          <div className="relative flex"></div>
+          <div className="relative "></div>
         </div>
       </Element>
     </section>
