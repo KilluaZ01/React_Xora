@@ -26,7 +26,7 @@ const Hero = () => {
             <img
               src="/images/hero.png"
               className="size-1230 max-lg:h-auto"
-              alt="hero"
+              alt="hero Section"
             />
           </div>
         </div>
