@@ -14,7 +14,7 @@ const Faq = () => {
               Curiosity didn't kill the cat, it gave it answers.
             </h3>
             <p className="body-1 max-lg:max-w-sm">
-              You've got questions, We've got answers.
+              You've got questions, We've got your answers.
             </p>
           </div>
           <div className="faq-line_after w-0.5 h-full absolute left-[calc(50%-1px)] top-0 -z-1 bg-s2 " />
